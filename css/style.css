@@ -81,7 +81,7 @@ a{text-decoration: none;}
 #story .wrap .deco_img img{width: 100%;}
 
 .mid_01{text-align: center;}
-.mid_01 .outer{display: inline-block; width: 400px; height: 400px; padding: 50px; background-image: url(img/cook-01.jpg); background-size: cover; background-position: 50% 50%;}
+.mid_01 .outer{display: inline-block; width: 400px; height: 400px; padding: 50px; background-image: url(../img/cook-01.jpg); background-size: cover; background-position: 50% 50%;}
 .mid_01 .outer .inner{width: 100%; height: 100%;background-color: rgba(0,0,0,0.4); padding: 50px; /*display: none;*/  /*transition: display 1s;*/ opacity: 0; transition: opacity 1s;}
 
 .mid_01 .outer:hover .inner{display: block;}
